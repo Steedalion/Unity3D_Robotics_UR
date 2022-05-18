@@ -68,8 +68,9 @@ public class SetSpeed : URCommand
         this.wz = wz;
         this.acceleration = acceleration;
         this.time = time;
-        message = "speedl([" + vx + "," + vy + "," + vz
-                  + "," + wx + "," + wy + "," + wz + "], a =" + acceleration + ", t =" + time + ")" + "\n";
+        // message = "speedl([" + vx + "," + vy + "," + vz
+                  // + "," + wx + "," + wy + "," + wz + "], a =" + acceleration + ", t =" + time + ")" + "\n";
+         message = $"speedl([{vx},{vy},{vz},{wx},{wy},{wz}], a ={acceleration}, t ={time})\n";
     }
 
     public override string ToString()

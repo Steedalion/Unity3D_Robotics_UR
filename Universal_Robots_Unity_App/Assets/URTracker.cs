@@ -29,10 +29,10 @@ public class URTracker : MonoBehaviour
         var vy = (goalPosition.y - tipPosition.y)*gain;
         var vz = (goalPosition.z - tipPosition.z)*gain;
         var eulerAngles = goal.eulerAngles;
-        var angles = tip.transform.eulerAngles;
-        var wx = (eulerAngles.x - angles.x)*rGain;
-        var wy = (eulerAngles.y - angles.y) * rGain;
-        var wz = (eulerAngles.z - angles.z) * rGain;
+        var tipAnlge = tip.transform.eulerAngles;
+        var wx = (eulerAngles.x - tipAnlge.x)*rGain;
+        var wy = (eulerAngles.y - tipAnlge.y) * rGain;
+        var wz = (eulerAngles.z - tipAnlge.z) * rGain;
         var urSpeedCommand = new SetSpeed(vx, vz, vy, wx, wz, wy, acceleration, time);
         Debug.Log(urSpeedCommand);
         ur_data_processing.UR_Control_Data.command = urSpeedCommand.ToBytes();
