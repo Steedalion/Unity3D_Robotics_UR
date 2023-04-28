@@ -4563,6 +4563,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Goal
       objectReference: {fileID: 0}
+    - target: {fileID: 3808233338634416513, guid: 0f6e8f506213bf84085557127aaed9a6,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3808233338634416519, guid: 0f6e8f506213bf84085557127aaed9a6,
         type: 3}
       propertyPath: tip
