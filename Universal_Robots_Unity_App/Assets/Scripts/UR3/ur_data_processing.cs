@@ -66,7 +66,7 @@ public class ur_data_processing : MonoBehaviour
     // -------------------- Thread -------------------- //
     private Thread tcpip_read_Thread, tcpip_write_Thread;
     // -------------------- Bool -------------------- //
-    private bool joystick_button_pressed;
+    public static bool joystick_button_pressed;
     // -------------------- Socket -------------------- //
     private Socket socket_read = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
     private Socket socket_write = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);

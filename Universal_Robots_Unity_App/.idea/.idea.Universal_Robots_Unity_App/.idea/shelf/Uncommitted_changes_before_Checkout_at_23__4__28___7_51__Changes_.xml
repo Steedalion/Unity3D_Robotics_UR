@@ -1,0 +1,19 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_23__4__28__오후_7_51_[Changes]" date="1682679099238" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/.idea.Universal_Robots_Unity_App/.idea/shelf/Uncommitted_changes_before_Checkout_at_23__4__28__오후_7_51_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 23. 4. 28. 오후 7:51 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="Assets/Object/Blender/UR_Logo.blend" />
+    <option name="AFTER_PATH" value="Assets/Object/Blender/UR_Logo.blend" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Universal_Robots_Unity_App/.idea/shelf/Uncommitted_changes_before_Checkout_at_23__4__28__오후_7_51_[Changes]/UR_Logo.blend" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Assets/Object/Blender/UR3_Controller.blend" />
+    <option name="AFTER_PATH" value="Assets/Object/Blender/UR3_Controller.blend" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Universal_Robots_Unity_App/.idea/shelf/Uncommitted_changes_before_Checkout_at_23__4__28__오후_7_51_[Changes]/UR3_Controller.blend" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Assets/Object/Blender/UR3_Robot.blend" />
+    <option name="AFTER_PATH" value="Assets/Object/Blender/UR3_Robot.blend" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Universal_Robots_Unity_App/.idea/shelf/Uncommitted_changes_before_Checkout_at_23__4__28__오후_7_51_[Changes]/UR3_Robot.blend" />
+  </binary>
+</changelist>
