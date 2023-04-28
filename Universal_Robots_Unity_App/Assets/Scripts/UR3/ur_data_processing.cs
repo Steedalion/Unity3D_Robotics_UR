@@ -88,7 +88,7 @@ public class ur_data_processing : MonoBehaviour
     // ------------------------------------------------------------------------------------------------------------------------//
     // ------------------------------------------------ INITIALIZATION {START} ------------------------------------------------//
     // ------------------------------------------------------------------------------------------------------------------------//
-    void Start()
+    void Awake()
     {
         // ------------------------ Initialization { UR3 Digital Twin {Control object} - TCP/IP Read } ------------------------//
         // Robot IP Address
@@ -382,8 +382,18 @@ public class ur_data_processing : MonoBehaviour
 
             if (socket_write.Connected == false)
             {
+                try
+                {
+                    socket_write.Connect(ip_end);
+
+                }
+                catch (Exception e)
+                {
+                    Debug.Log(ip);
+                    Console.WriteLine(e);
+                    throw;
+                }
                 // connect to controller -> if the controller is disconnected
-                socket_write.Connect(ip_end);
             }
         }
 

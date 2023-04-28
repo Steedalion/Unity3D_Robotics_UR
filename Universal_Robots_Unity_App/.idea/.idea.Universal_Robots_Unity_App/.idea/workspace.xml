@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bc2b3cd-5723-41dd-bf82-4ec9261b99f6" name="Changes" comment="" />
+    <list default="true" id="5bc2b3cd-5723-41dd-bf82-4ec9261b99f6" name="Changes" comment="Added remote connector and fixed connecting order.">
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,32 +23,6 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scenes/SampleScene.unity" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scenes/SampleScene.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scenes/SampleScene.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scenes/SampleScene.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scenes/SampleScene.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scripts/UI/main_ui_control.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scripts/UI/main_ui_control.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scripts/UI/main_ui_control.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scripts/UR3/Link/ur3_link3.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scripts/UR3/Link/ur3_link3.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scripts/UR3/Link/ur3_link5.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scripts/UR3/Link/ur3_link5.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scripts/UR3/Link/ur3_link6.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scripts/UR3/Link/ur3_link6.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scripts/UR3/ur_data_processing.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scripts/UR3/ur_data_processing.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scripts/UR3/ur_data_processing.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scripts/UR3/ur_data_processing.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scripts/UR3/ur_data_processing.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scripts/UR3/ur_data_processing.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scripts/UR3/ur_data_processing.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scripts/UR3/ur_data_processing.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scripts/UR3/ur_data_processing.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scripts/UR3/ur_data_processing.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scripts/UR3/ur_data_processing.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scripts/UR3/ur_data_processing.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scripts/UR3/ur_data_processing.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/csteed/RiderProjects/Unity3D_Robotics_UR/Universal_Robots_Unity_App/Assets/Scripts/UR3/ur_data_processing.cs.meta" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -128,6 +104,7 @@
       <workItem from="1682681985046" duration="660000" />
       <workItem from="1682682656876" duration="6866000" />
       <workItem from="1682689673166" duration="1472000" />
+      <workItem from="1682694972439" duration="2063000" />
     </task>
     <task id="LOCAL-00001" summary="Tracking working.">
       <created>1682689774195</created>
@@ -136,7 +113,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682689774195</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Tracking working.">
+      <created>1682695258013</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682695258013</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added remote connector and fixed connecting order.">
+      <created>1682697034779</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682697034779</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +151,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Added in tracking with broken SetSpeed.cs" />
     <MESSAGE value="Tracking working." />
-    <option name="LAST_COMMIT_MESSAGE" value="Tracking working." />
+    <MESSAGE value="Added remote connector and fixed connecting order." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added remote connector and fixed connecting order." />
   </component>
 </project>

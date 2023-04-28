@@ -1,4 +1,9 @@
 ﻿using System.Text;
+using System;
+
+namespace Unity_UniversalRobot.com.ur.controller.Scripts.UR3
+{
+}
 
 public abstract class URCommand
 {
